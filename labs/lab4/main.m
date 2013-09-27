@@ -10,8 +10,8 @@ int main(int argc,char* argv[])
 	c2=[[PhoneCard alloc]init];
 	c3=[[PhoneCard alloc]init];
 	
-	[c1 setName:@"prashant"];
-	[c1 setEmail:@"prashant@abc.com"];
+	[c1 setName:@"akshay"];
+	[c1 setEmail:@"akshay@abc.com"];
 	[c1 setPhNo:1234];
 	
 	[c2 setName:@"kumar"];
